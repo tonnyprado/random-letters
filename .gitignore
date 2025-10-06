@@ -28,6 +28,7 @@ firebase-admin-tools/
 *service-account*.json
 *admin-key*.json
 
+
 # Env locales
 .env
 .env.*.local
